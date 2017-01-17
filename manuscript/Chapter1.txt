@@ -8,6 +8,7 @@ Suddenly, a shot rang out!
 (g4p-herz-bw-url.jpg)
 
 ![AR Logoo 1](/images/qrcodes/k1p-herz-bw-url.jpg)
+![AR Logo 3] (https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg)
 
 run 10
 

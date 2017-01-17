@@ -2,4 +2,5 @@ help1
 It was a **bold** and *italic* night!
 
 Suddenly, a shot rang out!
-![GitHub Logo](images/logo.png)
+![AR Logoo 1](images/g4p-herz-bw-url.jpg)
+![QR Logo](g4p-herz-bw-url.jpg)

@@ -9,11 +9,15 @@ ok
 
 Suddenly, a shot rang out!
 [![AR Logo 1](/images/g4p-herz-bw-url.jpg)]
+and another one
 ![QR Logo 2](g4p-herz-bw-url.jpg)
 
 Let us see more
 
 ![AR Logo 3](/images/qrcodes/k1p-herz-bw-url.jpg)
+
+label abc
+
 ![AR Logo 4] (https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg)
 
 And again

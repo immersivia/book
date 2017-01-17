@@ -15,5 +15,10 @@ Let us see more
 And again
 [![AR Logo 5](https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg?raw=true)]
 
-run 11
+ An example of using *images* to display a web image
+ 
+  ![Xcode icon](http://devimages.apple.com.edgekey.net/assets/elements/icons/128x128/xcode.png "Some hover text")
+ 
+
+run 12
 

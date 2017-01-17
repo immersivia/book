@@ -2,3 +2,4 @@ help1
 It was a **bold** and *italic* night!
 
 Suddenly, a shot rang out!
+![GitHub Logo](images/logo.png)

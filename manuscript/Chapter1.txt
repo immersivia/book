@@ -1,6 +1,10 @@
 help1
 It was a **bold** and *italic* night!
 ![Playground icon](https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png?raw=true)
+
+ok
+
+!(https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png?raw=true)
 [![Playground icon](https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png] "An icon I seesawed")
 
 Suddenly, a shot rang out!

@@ -1,10 +1,10 @@
 help1
 It was a **bold** and *italic* night!
 ![Playground icon](https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png?raw=true)
-![Playground icon](https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png "An icon I seesawed")
+[![Playground icon](https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png] "An icon I seesawed")
 
 Suddenly, a shot rang out!
-![AR Logo 1](/images/g4p-herz-bw-url.jpg)
+[![AR Logo 1](/images/g4p-herz-bw-url.jpg)]
 ![QR Logo 2](g4p-herz-bw-url.jpg)
 
 Let us see more
@@ -13,7 +13,7 @@ Let us see more
 ![AR Logo 4] (https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg)
 
 And again
-![AR Logo 5](https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg?raw=true)
+[![AR Logo 5](https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg?raw=true)]
 
 run 11
 

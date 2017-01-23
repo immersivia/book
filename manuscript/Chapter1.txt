@@ -15,7 +15,7 @@ and another one
 
 Let us see more -thats it
 
-![AR Logo 3](images/qrcode/k1p-herz-bw-url.jpg)
+![AR Logo A3](images/qrcode/k1p-herz-bw-url.jpg) 
 
 label abc
 

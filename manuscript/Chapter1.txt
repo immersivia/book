@@ -2,7 +2,7 @@ This next **should work perfect bold**
 
 ![A1](images/planters_468x307.jpg)
 
-![A1b](planters_468x307.jpg)
+![A1b](/images/planters_468x307.jpg)
 
 The next *ball works italic* 
 

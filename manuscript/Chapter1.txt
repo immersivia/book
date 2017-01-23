@@ -8,7 +8,7 @@ ok
 [![Playground icon](https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png] "An icon I seesawed")
 
 Suddenly, a shot rang out!
-[![AR Logo 1](/images/g4p-herz-bw-url.jpg)]
+![AR Logo 1](images/g4p-herz-bw-url.jpg)
 and another one
 ![QR Logo 2](g4p-herz-bw-url.jpg)
 ![An awesome sword](images/Sword1200px72ppi.png)

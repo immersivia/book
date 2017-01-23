@@ -13,9 +13,9 @@ and another one
 ![QR Logo 2](g4p-herz-bw-url.jpg)
 ![An awesome sword](images/Sword1200px72ppi.png)
 
-Let us see more
+Let us see more -thats it
 
-![AR Logo 3](/images/qrcodes/k1p-herz-bw-url.jpg)
+![AR Logo 3](/images/qrcode/k1p-herz-bw-url.jpg)
 
 label abc
 

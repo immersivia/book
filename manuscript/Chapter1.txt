@@ -1,10 +1,9 @@
-This next **should work perfect bold** 
+This next **should work perfect but does not** 
 
-![A1](images/planters_468x307.jpg)
+![A1](manuscript/images/planters_468x307.jpg)
 
-![A1b](/images/planters_468x307.jpg)
 
-The next *ball works italic* 
+The next *work* 
 
 ![A2](http://www2.ece.gatech.edu/academic/courses/ece4007/07fall/ece4007l01/group04/ball.png)
 

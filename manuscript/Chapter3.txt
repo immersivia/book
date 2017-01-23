@@ -1,5 +1,5 @@
 Just another test page No 3
 
 
-![test](http://www2.ece.gatech.edu/academic/courses/ece4007/07fall/ece4007l01/group04/ball.png)
+![planters are there](https://raw.githubusercontent.com/immersivia/book/master/manuscript/images/planters_468x307.jpg)
 

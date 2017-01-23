@@ -1,2 +1,2 @@
-page 2 empty
-wow-01-180x144.jpg
+page 2 a different image ..
+![A4](images/wow-01-180x144.jpg)

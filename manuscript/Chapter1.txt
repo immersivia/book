@@ -19,10 +19,10 @@ Let us see more -thats it
 
 label abc
 
-![AR Logo 4] (https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg)
+![AR Logo 4](https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg)
 
 And again
-[![AR Logo 5](https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg?raw=true)]
+![AR Logo 5](https://github.com/immersivia/book/blob/master/manuscript/images/qrcode/k1p-herz-bw-url.jpg?raw=true)
 
  An example of using *images* to display a web image
  

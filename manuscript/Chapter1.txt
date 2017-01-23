@@ -3,7 +3,7 @@ It was a **bold** and *italic* night!
 
 ![A1](images/planters_468x307.jpg)
 
-![A2](qrcodse/planters_468x307.jpg)
+![A2](qrcode/planters_468x307.jpg)
 
 ![A3](images/qrcode/planters_468x307.jpg) 
 ![A4](images/qrcodes/planters_468x307.jpg) 

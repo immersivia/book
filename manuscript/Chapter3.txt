@@ -1,8 +1,5 @@
-Just another test page
+Just another test page No 3
 
-!(https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png?raw=true)
-ok2
-![test] (https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png?raw=true)
-ok3
 
-!(https://devimages.apple.com.edgekey.net/swift/images/playgrounds.png?raw=true)
+![test](http://www2.ece.gatech.edu/academic/courses/ece4007/07fall/ece4007l01/group04/ball.png)
+

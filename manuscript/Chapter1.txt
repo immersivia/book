@@ -1,6 +1,6 @@
 This next **should work perfect but does not** 
 
-![A1](images/planters_468x307.jpg)
+![A1](resources/images/planters_468x307.jpg)
 
 
 The next *all tree work* 

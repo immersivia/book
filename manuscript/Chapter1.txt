@@ -1,6 +1,6 @@
 This next **should work perfect but does not** 
 
-![A1](resources/images/planters_468x307.jpg)
+![A1](images/planters_468x307.jpg)
 
 
 The next *all tree work* 
@@ -10,5 +10,5 @@ The next *all tree work*
 ![A3](https://raw.githubusercontent.com/immersivia/book/master/manuscript/resources/images/planters_468x307.jpg)
 
 
-![A4](resources/images/wow-01-180x144.jpg)
+![A4](images/wow-01-180x144.jpg)
 

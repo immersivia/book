@@ -3,13 +3,12 @@ This next **should work perfect but does not**
 ![A1](images/planters_468x307.jpg)
 
 
-The next *both work* 
+The next *all tree work* 
 
 ![A2](http://www2.ece.gatech.edu/academic/courses/ece4007/07fall/ece4007l01/group04/ball.png)
 
 ![A3](https://raw.githubusercontent.com/immersivia/book/master/manuscript/resources/images/planters_468x307.jpg)
 
-This does not work, but should:
 
 ![A4](resources/images/wow-01-180x144.jpg)
 

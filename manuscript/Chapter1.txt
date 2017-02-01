@@ -7,9 +7,9 @@ The next *both work*
 
 ![A2](http://www2.ece.gatech.edu/academic/courses/ece4007/07fall/ece4007l01/group04/ball.png)
 
-![A3](https://raw.githubusercontent.com/immersivia/book/master/manuscript/images/planters_468x307.jpg)
+![A3](https://raw.githubusercontent.com/immersivia/book/master/manuscript/ressources/images/planters_468x307.jpg)
 
 This does not work, but should:
 
-![A4](images/wow-01-180x144.jpg)
+![A4](ressources/images/wow-01-180x144.jpg)
 
